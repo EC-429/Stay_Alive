@@ -17,7 +17,7 @@
  the icon to run the program. It will 'click' the numlock key every 6 seconds to keep your computer/display
  from going to sleep.
  
- If you are a contractor using 2 machines, annoyed of your computer sleeping everytime you go to the bathrom, 
+ If you are a contractor using 2 machines, annoyed of your computer sleeping everytime you go to the bathroom, 
  or just need to appear 'online' at all times; this tool is perfect for you.
  
  Installation:
