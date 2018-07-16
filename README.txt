@@ -11,7 +11,7 @@
  'momentary masters of a fraction of a dot' - Carl Sagan'
  
  The Stay_Alive tool was created for full-time professionals working in an office environment. 
- The tool is very simple but   offers many practical solutions to the average working wo/man. 
+ The tool is very simple but offers many practical solutions to the average working wo/man. 
  
  Once, downloaded or installed on the Desktop as a .ps1 (PowerShell) exexcutable, simply double-click
  the icon to run the program. It will 'click' the numlock key every 6 seconds to keep your computer/display
